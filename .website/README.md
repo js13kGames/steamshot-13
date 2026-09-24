@@ -1,4 +1,7 @@
 ---
+genres:
+  - shooter
+  - arcade
 video: https://youtu.be/g2bEYw87ckw
 post: https://web.archive.org/web/20250116091850/https://niklever.com/steamshot-13-my-webxr-entry-to-the-2024-js13kgames-competition
 # See github.com/js13kGames/hello-world for supported frontmatter
